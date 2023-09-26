@@ -17,4 +17,4 @@ Additionally, Google Fonts were included to customize the font, and Bootstrap ic
 
 # Live Project
 
-You can access the live project at:
+You can access the live project at: https://alexaudo.github.io/portfolio-bootstrap-responsive/
